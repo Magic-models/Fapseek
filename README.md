@@ -1,3 +1,5 @@
+> [!TIPS]
+> Github暂未上传模型，欲下载请前往https://modelscope.cn/models/Yuanbenxin/Fapseek
 # Fapseek项目简介
 Fapseek，是我们基于Qwen3-4B进行Lora指令微调得到的对话模型，在精心构建的数据集以及我们合理的训练之下，模型可以扮演一位名叫“赵发”的高中男老师。
 ## 重要说明
